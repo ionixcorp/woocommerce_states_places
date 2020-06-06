@@ -15,7 +15,7 @@
 global $places;
 
 // Replace 'XX' code for your Country Code. E.g. 'NG' for Nigeria, 'CO' for Colombia, 'VE' for Venezuela, etc.
-// Please refer to WooCommerce country codes : https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php
+// Please refer to WooCommerce country code : https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php
 $places['BO'] = array(
   // Replace 'AA' code with the code of the State you want to mapping this places  
   'BO-B' => array(
